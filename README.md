@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Saintro
-- 👀 I’m interested in graphic design, Animals, Gaming and Game dev
-- 🌱 I’m currently learning C++, CSS, HTML
-- 💞️ As now I'm not looking for any collaboration
-- 📫 I'm new here, as well I'm begginer programmer so I might post my mail in a future :)
+
